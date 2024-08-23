@@ -9,4 +9,5 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #neosmemo/memos
 #gogost/gost
-gogost/gost-ui
+#gogost/gost-ui
+linuxserver/ffmpeg
