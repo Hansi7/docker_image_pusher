@@ -11,3 +11,5 @@ xhofe/alist:latest
 #gogost/gost
 #gogost/gost-ui
 linuxserver/ffmpeg
+linuxserver/transmission
+nyanmisaka/jellyfin
