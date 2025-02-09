@@ -11,3 +11,4 @@ neosmemo/memos
 #linuxserver/ffmpeg
 linuxserver/transmission
 nyanmisaka/jellyfin
+containrrr/watchtower
