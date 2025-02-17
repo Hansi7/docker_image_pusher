@@ -12,3 +12,4 @@ neosmemo/memos
 linuxserver/transmission
 nyanmisaka/jellyfin
 containrrr/watchtower
+graham0503/awtrix
