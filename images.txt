@@ -12,4 +12,4 @@ neosmemo/memos
 linuxserver/transmission
 nyanmisaka/jellyfin
 containrrr/watchtower
-graham0503/awtrix
+ghcr.io/open-webui/open-webui:main
