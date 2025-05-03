@@ -1,5 +1,5 @@
 #nginx
-#lissy93/dashy
+lissy93/dashy
 #xiaoyaliu/alist
 #assaflavie/runlike
 #支持私库
@@ -14,4 +14,4 @@
 #containrrr/watchtower
 #ghcr.io/open-webui/open-webui:main
 #lscr.io/linuxserver/jackett:latest
-ghcr.io/thespad/whisparr:latest
+#ghcr.io/thespad/whisparr:latest
