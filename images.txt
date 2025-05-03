@@ -1,5 +1,5 @@
 #nginx
-lissy93/dashy
+#lissy93/dashy
 #xiaoyaliu/alist
 #assaflavie/runlike
 #支持私库
@@ -15,3 +15,4 @@ lissy93/dashy
 #ghcr.io/open-webui/open-webui:main
 #lscr.io/linuxserver/jackett:latest
 #ghcr.io/thespad/whisparr:latest
+ghcr.io/homarr-labs/homarr
