@@ -17,4 +17,4 @@
 #ghcr.io/thespad/whisparr:latest
 #ghcr.io/homarr-labs/homarr
 #nyanmisaka/jellyfin
-kasmweb/qbittorrent
+lsioarmhf/qbittorrent
