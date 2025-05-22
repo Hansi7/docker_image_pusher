@@ -16,4 +16,5 @@
 #lscr.io/linuxserver/jackett:latest
 #ghcr.io/thespad/whisparr:latest
 #ghcr.io/homarr-labs/homarr
-nyanmisaka/jellyfin
+#nyanmisaka/jellyfin
+kasmweb/qbittorrent
